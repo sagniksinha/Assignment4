@@ -1,0 +1,7 @@
+https://www.kaggle.com/code/sagniksinha/markov-decision-processes/edit
+
+https://github.com/reedipher/CS-7641-reinforcement_learning
+https://github.com/adodd202/GT-ML-Assignment4
+https://rdluna.info/assets/files/reinforcement.pdf
+http://www.dudonwai.com/docs/gt-omscs-cs7641-a4.pdf?pdf=gt-omscs-cs7641-a4
+http://www.nathandass.me/files/reinforcement-paper.pdf
